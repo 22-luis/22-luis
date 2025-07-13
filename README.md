@@ -39,7 +39,7 @@ I have a growing interest in security practices across the development lifecycle
 ### Tools and others
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,postman,pycharm,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows" />
 </a>
 </p>
 
@@ -59,5 +59,8 @@ I have a growing interest in security practices across the development lifecycle
   </a>
   <a href="https://github.com/22-luis/SecureDocker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=22-luis&repo=SecureDocker&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" alt="Top Repository" />
+  </a>
+  <a href="https://github.com/22-luis/RawsourceApi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=22-luis&repo=RawsourceApi&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" alt="Top Repository" />
   </a>
 </p>
