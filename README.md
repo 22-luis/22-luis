@@ -21,22 +21,14 @@ I have a growing interest in security practices across the development lifecycle
 
 🌱 I'm actively learning more about **cloud-native security**, **Go for DevOps tooling**, and **infrastructure automation**.
 
-### Lenguajes de Programación:
+### Programming languages and frameworks:
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,py,go,java" />
+<img src="https://skillicons.dev/icons?i=cpp,py,go,java,fastapi,spring" />
 </a>
 </p>
 
-### Frameworks & Librerías:
-
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=fastapi,spring" />
-</a>
-</p>
-
-### Bases de Datos:
+### Databases:
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -44,19 +36,10 @@ I have a growing interest in security practices across the development lifecycle
 </a>
 </p>
 
-### DevOps & Cloud:
-
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-</a>
-</p>
-
-
 ### Tools and others
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,windows,postman,pycharm,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,postman,pycharm,vscode" />
 </a>
 </p>
 
