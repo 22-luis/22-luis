@@ -15,16 +15,16 @@ I have a growing interest in security practices across the development lifecycle
 
 </p>
 
-### 🚀 About Me
+###  About Me
 
-🔭 I'm currently working on **APISchedule** and **SecureDocker**, projects focused on backend development and container security.
+ I'm currently working on **APISchedule** and **SecureDocker**, projects focused on backend development and container security.
 
-🌱 I'm actively learning more about **cloud-native security**, **Go for DevOps tooling**, and **infrastructure automation**.
+ I'm actively learning more about **cloud-native security**, **Go for DevOps tooling**, and **infrastructure automation**.
 
 ### Programming languages and frameworks:
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,py,go,java,fastapi,spring" />
+<img src="https://skillicons.dev/icons?i=cpp,py,go,java,fastapi,spring,django" />
 </a>
 </p>
 
@@ -32,7 +32,7 @@ I have a growing interest in security practices across the development lifecycle
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 </a>
 </p>
 
