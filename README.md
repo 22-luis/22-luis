@@ -24,7 +24,7 @@ I have a growing interest in security practices across the development lifecycle
 ### Programming languages and frameworks:
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,py,go,java,fastapi,spring,django" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,fastapi,spring" />
 </a>
 </p>
 
