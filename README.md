@@ -17,7 +17,7 @@ I have a growing interest in security practices across the development lifecycle
 
 ###  About Me
 
- I'm currently working on **APISchedule** and **SecureDocker**, projects focused on backend development and container security.
+ I'm currently working on **APISchedule**, a project focused on backend development .
 
  I'm actively learning more about **cloud-native security**, **Go for DevOps tooling**, and **infrastructure automation**.
 
