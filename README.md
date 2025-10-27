@@ -19,7 +19,7 @@ I have a growing interest in security practices across the development lifecycle
 
  I'm currently working on **APISchedule**, a project focused on backend development .
 
- I'm actively learning more about **cloud-native security**, **Go for DevOps tooling**, and **infrastructure automation**.
+ I'm actively learning more about **cloud-native security** and **infrastructure automation**.
 
 ### Programming languages and frameworks:
 <p align="center">
